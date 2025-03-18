@@ -4,7 +4,7 @@
 #include "ComponentManager.h"
 
 common::String Email = "lewis.connolly92@gmail.com"; // argv[1]
-common::String Password = "iBjPT4i#y@*UZul7"; // argv[2]
+common::String Password = ""; // argv[2]
 common::String SpaceName = "Live D&D Arena"; // argv[3]
 common::String ComponentName = "Text Box"; // argv[4]
 common::String EntityName = "Big Screen"; // argv[5]
