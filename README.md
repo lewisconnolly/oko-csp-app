@@ -1,5 +1,7 @@
 # oko-csp-app
 
+Simple C++ program to connect to [OKO space](https://app.oko.live/) using [CSP API](https://connected-spaces-platform.net/api/library_root.html#full-api) and update a text component.
+
 Run from command line, passing relevant parameters:
 
 "oko_email" // argv[1]
