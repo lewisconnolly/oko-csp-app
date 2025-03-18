@@ -13,4 +13,4 @@ Run from command line, passing relevant parameters:
 
 Example:
 
-. .\oko-csp-app.exe "myokoemail@gmail.com" "mypassword" "Live D&D Arena" "Text Box" "Big Screen" "Hellow, World!"
+. .\oko-csp-app.exe "myokoemail@gmail.com" "mypassword" "Live D&D Arena" "Text Box" "Big Screen" "Hello, World!"
