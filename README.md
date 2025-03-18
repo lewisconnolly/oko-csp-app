@@ -4,12 +4,12 @@ Simple C++ program to connect to [OKO space](https://app.oko.live/) using [CSP A
 
 Run from command line, passing relevant parameters:
 
-"oko_email" // argv[1]
-"plaintext_password" // argv[2]
-"Space Name" // argv[3]
-"Component Name" // argv[4]
-"Entity Name" // argv[5]
-"Text to Set" // argv[6]
+"oko_email" // argv[1]  
+"plaintext_password" // argv[2]  
+"Space Name" // argv[3]  
+"Component Name" // argv[4]  
+"Entity Name" // argv[5]  
+"Text to Set" // argv[6]  
 
 Example:
 
